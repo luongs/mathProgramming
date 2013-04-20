@@ -11,6 +11,7 @@
 max=0
 divisorArr=[]
 num=long(600851475143)
+#num=20
 
 div=num
 initPrime=2
